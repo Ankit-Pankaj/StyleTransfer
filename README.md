@@ -1,7 +1,7 @@
 ### StyleTransfer
 
 #### What it does
-Ever wondered how a photo would be look like if it was painted by some famous artist. Well the state of the art deep pearning algorithms has made it possible to achieve these tasks.
+Ever wondered how a photo would be look like if it was painted by some famous artist. Well the state of the art deep learning algorithms has made it possible to achieve these tasks.
 This deep learning software does the same.
 
 #### How it works
